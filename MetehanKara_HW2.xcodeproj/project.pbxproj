@@ -7,15 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		836EE8762459BC9A00782113 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836EE8752459BC9A00782113 /* CustomCollectionViewCell.swift */; };
+		836EE8782459BCB400782113 /* CustomCollectionReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836EE8772459BCB400782113 /* CustomCollectionReusableView.swift */; };
 		83B93ECB24508ED4007FF56A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93ECA24508ED4007FF56A /* AppDelegate.swift */; };
 		83B93ECD24508ED4007FF56A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93ECC24508ED4007FF56A /* SceneDelegate.swift */; };
 		83B93ECF24508ED4007FF56A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93ECE24508ED4007FF56A /* ViewController.swift */; };
 		83B93ED224508ED4007FF56A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83B93ED024508ED4007FF56A /* Main.storyboard */; };
 		83B93ED424508ED5007FF56A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83B93ED324508ED5007FF56A /* Assets.xcassets */; };
 		83B93ED724508ED5007FF56A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83B93ED524508ED5007FF56A /* LaunchScreen.storyboard */; };
+		83B93EDF24509136007FF56A /* JsonVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93EDE24509136007FF56A /* JsonVC.swift */; };
+		83B93EE12450914E007FF56A /* XmlVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93EE02450914E007FF56A /* XmlVC.swift */; };
+		83B93EE8245091DF007FF56A /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93EE2245091DE007FF56A /* DataSource.swift */; };
+		83B93EE9245091DF007FF56A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93EE3245091DE007FF56A /* SwiftyJSON.swift */; };
+		83B93EEA245091DF007FF56A /* hw2.xml in Resources */ = {isa = PBXBuildFile; fileRef = 83B93EE4245091DE007FF56A /* hw2.xml */; };
+		83B93EEB245091DF007FF56A /* SWXMLHash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93EE5245091DE007FF56A /* SWXMLHash.swift */; };
+		83B93EEC245091DF007FF56A /* Record.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B93EE6245091DE007FF56A /* Record.swift */; };
+		83B93EED245091DF007FF56A /* hw2.json in Resources */ = {isa = PBXBuildFile; fileRef = 83B93EE7245091DF007FF56A /* hw2.json */; };
+		83BE1F1024530BA30088B945 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83BE1F0F24530BA30088B945 /* DetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		836EE8752459BC9A00782113 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
+		836EE8772459BCB400782113 /* CustomCollectionReusableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionReusableView.swift; sourceTree = "<group>"; };
 		83B93EC724508ED4007FF56A /* MetehanKara_HW2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MetehanKara_HW2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83B93ECA24508ED4007FF56A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83B93ECC24508ED4007FF56A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +37,15 @@
 		83B93ED324508ED5007FF56A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83B93ED624508ED5007FF56A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83B93ED824508ED5007FF56A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83B93EDE24509136007FF56A /* JsonVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonVC.swift; sourceTree = "<group>"; };
+		83B93EE02450914E007FF56A /* XmlVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XmlVC.swift; sourceTree = "<group>"; };
+		83B93EE2245091DE007FF56A /* DataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
+		83B93EE3245091DE007FF56A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		83B93EE4245091DE007FF56A /* hw2.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = hw2.xml; sourceTree = "<group>"; };
+		83B93EE5245091DE007FF56A /* SWXMLHash.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SWXMLHash.swift; sourceTree = "<group>"; };
+		83B93EE6245091DE007FF56A /* Record.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Record.swift; sourceTree = "<group>"; };
+		83B93EE7245091DF007FF56A /* hw2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hw2.json; sourceTree = "<group>"; };
+		83BE1F0F24530BA30088B945 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,11 +79,22 @@
 			isa = PBXGroup;
 			children = (
 				83B93ECA24508ED4007FF56A /* AppDelegate.swift */,
+				83B93EE2245091DE007FF56A /* DataSource.swift */,
+				83B93EE6245091DE007FF56A /* Record.swift */,
+				836EE8752459BC9A00782113 /* CustomCollectionViewCell.swift */,
+				836EE8772459BCB400782113 /* CustomCollectionReusableView.swift */,
+				83B93EE3245091DE007FF56A /* SwiftyJSON.swift */,
+				83B93EE5245091DE007FF56A /* SWXMLHash.swift */,
+				83B93EDE24509136007FF56A /* JsonVC.swift */,
+				83B93EE02450914E007FF56A /* XmlVC.swift */,
+				83BE1F0F24530BA30088B945 /* DetailVC.swift */,
 				83B93ECC24508ED4007FF56A /* SceneDelegate.swift */,
 				83B93ECE24508ED4007FF56A /* ViewController.swift */,
 				83B93ED024508ED4007FF56A /* Main.storyboard */,
 				83B93ED324508ED5007FF56A /* Assets.xcassets */,
 				83B93ED524508ED5007FF56A /* LaunchScreen.storyboard */,
+				83B93EE7245091DF007FF56A /* hw2.json */,
+				83B93EE4245091DE007FF56A /* hw2.xml */,
 				83B93ED824508ED5007FF56A /* Info.plist */,
 			);
 			path = MetehanKara_HW2;
@@ -128,6 +161,8 @@
 				83B93ED724508ED5007FF56A /* LaunchScreen.storyboard in Resources */,
 				83B93ED424508ED5007FF56A /* Assets.xcassets in Resources */,
 				83B93ED224508ED4007FF56A /* Main.storyboard in Resources */,
+				83B93EED245091DF007FF56A /* hw2.json in Resources */,
+				83B93EEA245091DF007FF56A /* hw2.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +173,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83B93EE8245091DF007FF56A /* DataSource.swift in Sources */,
+				83B93EEB245091DF007FF56A /* SWXMLHash.swift in Sources */,
+				836EE8782459BCB400782113 /* CustomCollectionReusableView.swift in Sources */,
+				83B93EEC245091DF007FF56A /* Record.swift in Sources */,
 				83B93ECF24508ED4007FF56A /* ViewController.swift in Sources */,
+				83B93EE12450914E007FF56A /* XmlVC.swift in Sources */,
+				83BE1F1024530BA30088B945 /* DetailVC.swift in Sources */,
 				83B93ECB24508ED4007FF56A /* AppDelegate.swift in Sources */,
+				83B93EDF24509136007FF56A /* JsonVC.swift in Sources */,
+				83B93EE9245091DF007FF56A /* SwiftyJSON.swift in Sources */,
 				83B93ECD24508ED4007FF56A /* SceneDelegate.swift in Sources */,
+				836EE8762459BC9A00782113 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

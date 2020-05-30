@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <item>
+	<category>Fruits</category>
+	<name>Buddah's hand</name>
+	<description>It is is an unusually shaped citron variet whose fruit is segmented into finger-like sections, resembling a human hand. Buddha's hand fruit is very fragrant and is used predominantly in China and Japan for perfuming rooms and personal items such as clothing.</description>
+	<image>buddhashand</image>
+  </item>
+  <item>
+      <category>Fruits</category>
+      <name>Rambutan</name>
+      <description>The rambutan is a medium-sized tropical tree in the family Sapindaceae. The name also refers to the fruit produced by this tree. The rambutan is native to Malay-Indonesian region and other regions of tropical Southeast Asia. It is closely related to several other edible tropical fruits including the lychee, longan, and mamoncillo. The name 'rambutan' is derived from the Malay-Indonesian languages word for rambut or "hair", a reference to the numerous hairy protuberances of the fruit, together with the noun-building suffix -an.</description>
+      <image>rambutan</image>
+  </item>
+  <item>
+      <category>Fruits</category>
+      <name>Dragon Fruit</name>
+      <description>The Pitaya is more commonly referred to as the dragon fruit. It is an extremely beautiful fruit that has dazzling flowers and an intense shape and color. The dragon fruit is usually a dark red color, although some types of this fruit are pink or yellow. The skin of the dragon fruit is a thin rind. The skin is usually covered in scales, and the center of the fruit is made up of a red or white, sweet tasting pulp.</description>
+      <image>dragonfruit</image>
+  </item>
+  <item>
+      <category>Fruits</category>
+      <name>Jackfruit</name>
+      <description>The jackfruit, also known as jack tree, jakfruit, or sometimes simply jack or jak is a species of tree in the mulberry and fig family (Moraceae). It is native to parts of South and Southeast Asia, and is believed to have originated in the southwestern rain forests of Indian Subcontinent. The jackfruit tree is well suited to tropical lowlands, and its fruit is the largest tree-borne fruit, reaching as much as 35 kg (80 lb) in weight, 90 cm (35 in) in length, and 50 cm (20 in) in diameter.</description>
+      <image>jackfruit</image>
+  </item>
+  <item>
+      <category>Fruits</category>
+      <name>Snake Fruit</name>
+      <description>Snake fruit, more technically known as salak or salacca zalacca, is native to Indonesia but is now grown and produced around southeast Asia. The fruit grows on the salak palm tree, sprouting off the base of the palm in little clusters. In Thailand, snake fruit is widespread, popular as a to-go snack on the streets of Bangkok (during season). Venders will often handle the dirty work, peeling the spiky exterior and packing the peeled fruit into convenient baggies for sale.</description>
+      <image>snakefruit</image>
+  </item>
+  <item>
+      <category>Fruits</category>
+      <name>Star Fruit</name>
+      <description>Carambola, commonly referred to as starfruit, because of its shape when sliced into pieces, is the fruit of Averrhoa carambola, a species of tree native to the Philippines, Indonesia, Malaysia, Vietnam, Nepal, India, Bangladesh and Sri Lanka. The fruit is popular throughout Southeast Asia, the South Pacific, Micronesia, and parts of East Asia. The tree is also cultivated throughout non-indigenous tropical areas, such as in Latin America, the Caribbean, and the southern United States. The fruit has distinctive ridges running down its sides (usually five but can sometimes vary); in cross-section, it resembles a star, hence its name. The entire fruit is edible and is usually eaten out of hand. They may also be used in cooking and can be made into relishes, preserves, and juice drinks.</description>
+      <image>starfruit</image>
+  </item>
+  <item>
+      <category>Trees</category>
+      <name>Baobab</name>
+      <description>Baobab is the common name for each of the nine species of tree in the genus Adansonia. The generic name honours Michel Adanson, the French naturalist and explorer who described Adansonia digitata. Of the nine species, six are native to Madagascar, two are native to mainland Africa and the Arabian Peninsula, and one is native to Australia. One of the mainland African species also occurs on Madagascar, but it is not a native of that island. It was introduced in ancient times to south Asia and during the colonial era to the Caribbean.</description>
+      <image>baobab</image>
+  </item>
+  <item>
+      <category>Trees</category>
+      <name>Flamboyant</name>
+      <description>Delonix regia is a species of flowering plant in the bean family Fabaceae, subfamily Caesalpinioideae. It is noted for its fern-like leaves and flamboyant display of flowers. In many tropical parts of the world it is grown as an ornamental tree and in English it is given the name Royal Poinciana or Flamboyant. It is also one of several trees known as Flame tree.</description>
+      <image>flamboyant</image>
+  </item>
+  <item>
+      <category>Trees</category>
+      <name>Rainbow Euclyptus</name>
+      <description>Eucalyptus deglupta is a tall tree, commonly known as the rainbow eucalyptus, Mindanao gum, or rainbow gum. It is found in an area that spans New Britain, New Guinea, Seram, Sulawesi and Mindanao, and is the only Eucalyptus species with a natural range that extends into the northern hemisphere. It thrives in tropical forests that get a lot of rain.</description>
+      <image>rainboweuclyptus</image>
+  </item>
+  <item>
+      <category>Trees</category>
+      <name>Dragon Blood Tree</name>
+      <description>Dracaena cinnabari, the Socotra dragon tree or dragon blood tree, is a dragon tree native to the Socotra archipelago in the Indian Ocean. It is so called due to the red sap that the trees produce.</description>
+      <image>dragonbloodtree</image>
+  </item>
+  <item>
+      <category>Trees</category>
+      <name>Jabuticaba</name>
+      <description>Jabuticaba is the fruit of the jabuticabeira tree in the family Myrtaceae native to Minas Gerais and São Paulo states in southeastern Brazil. Related species in the genus Myrciaria, often referred to by the same common name, are native to Brazil, Argentina, Paraguay, Peru and Bolivia. The tree is grown for its purplish-black, white-pulped fruits; they can be eaten raw or be used to make jellies and drinks (plain juice or wine). Other common names include Brazilian grape tree, jaboticaba, jabotica, jabuticabeira, guaperu, guapuru, hivapuru.</description>
+      <image>jabuticaba</image>
+  </item>
+  <item>
+        <category>Trees</category>
+        <name>Cannonball Tree</name>
+        <description>Couroupita guianensis, known by several common names, including cannonball tree, is a deciduous tree in the family Lecythidaceae, which also contains the Brazil nut (Bertholletia excelsa) and Paradise nut Lecythis zabucajo. It is native to the rainforests of Central and South America. Couroupita guianensis grows up to 35 m (meters) in height. The clustered leaves vary in length, generally from 8 to 31 centimeters, but reaching up to 57. The flowers are born in large bunches up to 80 m(meters) long. Some trees flower profusely, until the entire trunk is buried in flowers. One tree can bear 1000 flowers per day. They are strongly scented, especially at night, and in the early morning.</description>
+        <image>cannonball</image>
+  </item>
+  <item>
+      <category>Birds</category>
+      <name>California Condor</name>
+      <description>The California condor (Gymnogyps californianus) is a New World vulture, the largest North American land bird. This condor became extinct in the wild in 1987 (all remaining wild individuals were captured), but the species has been reintroduced to northern Arizona and southern Utah (including the Grand Canyon area and Zion National Park), the coastal mountains of central and southern California, and northern Baja California. Although other fossil members are known, it is the only surviving member of the genus Gymnogyps. The species is listed as critically endangered by the IUCN.</description>
+      <image>californiacondor</image>
+  </item>
+  <item>
+      <category>Birds</category>
+      <name>Frigatebird</name>
+      <description>Frigatebirds are a family—Fregatidae—of seabirds found across all tropical and subtropical oceans. The five extant species are classified in a single genus, Fregata. All have predominantly black plumage, long, deeply forked tails and long hooked bills. Females have white underbellies and males have a distinctive red gular pouch, which they inflate during the breeding season to attract females. Their wings are long and pointed and can span up to 2.3 metres (7.5 ft), the largest wing area to body weight ratio of any bird.</description>
+      <image>frigatebird</image>
+  </item>
+  <item>
+      <category>Birds</category>
+      <name>Red bird-of-paradise</name>
+      <description>The red bird-of-paradise (Paradisaea rubra, also cendrawasih merah), is a bird-of-paradise in the genus Paradisaea, family Paradisaeidae. Large, up to 33 cm long, brown and yellow with a dark brown iris, grey legs and yellow bill. The male has an emerald green face, a pair of elongated black corkscrew-shaped tail wires, dark green feather pompoms above each eye and a train of glossy crimson red plumes with whitish tips at either side of the breast. The male measures up to 72 cm long, including the ornamental red plumes that require at least six years to fully attain. The female is similar but smaller in size, with a dark brown face and has no ornamental red plumes. The diet consists mainly of fruits, berries and arthropods.</description>
+      <image>redbirdofparadise</image>
+  </item>
+  <item>
+      <category>Birds</category>
+      <name>Ribbon-tailed Astrapia</name>
+      <description>The ribbon-tailed astrapia, also known as Shaw Mayer's astrapia (Astrapia mayeri), is a species of bird-of-paradise. The ribbon-tailed astrapia is distributed and endemic to subalpine forests in western part of the central highlands of Papua New Guinea. Like many other ornamental birds-of-paradise, the male is polygamous. The ribbon-tailed astrapia is the most recently discovered bird-of-paradise. Due to habitat lost and hunted for its plumes, the ribbon-tailed astrapia is listed as Near Threatened on the IUCN Red List of Threatened Species.</description>
+      <image>ribbontailedastrapia</image>
+  </item>
+  <item>
+      <category>Flowers</category>
+      <name>Bleeding Heart</name>
+      <description>Lamprocapnos spectabilis (bleeding heart or Asian bleeding-heart) is a species of flowering plant in the poppy family Papaveraceae, native to Siberia, northern China, Korea and Japan. It is the sole species in the monotypic genus Lamprocapnos, but is still widely referenced under its old name Dicentra spectabilis (now listed as a synonym). It is valued in gardens and in floristry for its heart-shaped pink and white flowers, borne in spring. Other common names include "Dutchman's breeches", "lyre flower" and "lady-in-a-bath".</description>
+      <image>bleedingheart</image>
+  </item>
+  <item>
+      <category>Flowers</category>
+      <name>Flying Duck Orchid</name>
+      <description>Caleana major, the flying duck orchid, is a small orchid found in eastern and southern Australia. This terrestrial plant features a remarkable flower, resembling a duck in flight. The flower is an attractant to insects, such as male sawflies which pollinate the flower in a process known as pseudocopulation. In 1986 this orchid was featured on an Australian postage stamp.</description>
+      <image>flyingduckorchid</image>
+  </item>
+  <item>
+      <category>Flowers</category>
+      <name>Hooker's Lips</name>
+      <description>Psychotria also called Hooker’s Lips is a weird plant might look like the work of a photo editing software, but I can assure you those kissable lips are all natural. Found in the tropical rain forests of Central and South American countries like Colombia, Costa Rica, Panama and Ecuador, the Psychotria Elatra plant has apparently evolved into its current shape to attract pollinators including hummingbirds and butterflies. Affectionately known as Hooker’s Lips, this extraordinary flower has unfortunately become endangered due to uncontrolled deforestation in the above-mentioned countries.</description>
+      <image>hookerslipspsychotria</image>
+  </item>
+  <item>
+      <category>Flowers</category>
+      <name>Parrot Flower</name>
+      <description>Impatiens psittacina, known variously as the "parrot flower" or "parrot balsam" is a species of balsam from Southeast Asia that was described by the botanist Joseph Dalton Hooker and was noted for its flower that resemble a "flying cockatoo". It is known from Thailand, Burma and parts of India.</description>
+      <image>parrotflower</image>
+  </item>
+  <item>
+      <category>Flowers</category>
+      <name>Passion Flower</name>
+      <description>Passiflora, known also as the passion flowers or passion vines, is a genus of about 500 species of flowering plants, the namesakes of the family Passifloraceae. They are mostly vines, with some being shrubs, and a few species being herbaceous. For information about the fruit of the passiflora plant, see passionfruit. Most species are found in South America, eastern Asia, southern Asia and New Guinea. Nine separate species of Passiflora are native to the United States, found from Ohio to the north, west to California and south to the Florida Keys. Four or more species are also found in Australia and a single endemic species in New Zealand.</description>
+      <image>passionflower</image>
+  </item>
+</main>
